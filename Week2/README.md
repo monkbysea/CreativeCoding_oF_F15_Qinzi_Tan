@@ -1,3 +1,3 @@
-# Week2 HW: Leaf
+# Week2 HW: Maple
 Qinzi Tan
 

@@ -1,0 +1,3 @@
+ofxGui
+ofxXmlSettings
+ofxBox2d
