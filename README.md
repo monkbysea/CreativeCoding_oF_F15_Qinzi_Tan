@@ -1,6 +1,6 @@
 # CreativeCoding_oF_F15_Qinzi_Tan
 Qinzi Tan
-![gui](image/1.png)
+![gui](image/gui.png)
 https://qinzitan.wordpress.com/
 qinzi.tan@newschool.edu
 
