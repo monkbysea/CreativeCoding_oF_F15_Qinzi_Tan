@@ -9,8 +9,4 @@ qinzi.tan@newschool.edu
 Art + Technology + Design
 Music + Photography
 
-Parsons the Design School
-MFA Design and Technology
-
-New York City
-
+Parsons the Design School MFA Design and Technology
