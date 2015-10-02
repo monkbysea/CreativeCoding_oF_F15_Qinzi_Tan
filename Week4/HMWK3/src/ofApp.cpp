@@ -188,7 +188,7 @@ void ofApp::keyPressed(int key){
                            1.5*PI,
                            0,
                            ofColor(99, 48, 20),
-                           4);
+                           4 );
             
             
             myRoot.setup(ofGetWidth()/2,
