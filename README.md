@@ -6,9 +6,7 @@ https://qinzitan.wordpress.com/
 qinzi.tan@newschool.edu
 
 
-![gui](gui.jpg =400x400)
-
-
+![image](gui.jpg)
 
 Art + Technology + Design || Music + Photography
 
