@@ -1,7 +1,7 @@
 # CreativeCoding_oF_F15_Qinzi_Tan
-Qinzi Tan
+谭钦子 Qinzi Tan 
 
-https://qinzitan.wordpress.com/ 
+https://qinzitan.wordpress.com/
 
 qinzi.tan@newschool.edu
 
