@@ -64,6 +64,7 @@ public:
     ofColor burstAddColor;
     
     int stateColor;
+        int state;
     
     
 };
